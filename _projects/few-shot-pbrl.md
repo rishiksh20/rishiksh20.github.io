@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Various Meta-Learning Paradigms in Few-Shot Preference Based Reinforcement Learning"
+title: "few-shot-pbrl"
 collection: projects
 permalink: /projects/project3
 excerpt: 'In April 2024 I worked on a course project for EECS 545 Machine Learning course at University of Michigan'

@@ -1,7 +1,7 @@
 ---
 title: "Is it easy to be Multilingual"
 collection: projects
-permalink: /projects/project2
+permalink: /projects/Is-it-easy-to-be-Multilingual
 excerpt: 'In December 2023, I worked on a course project for EECS 595 Natural Language Processing course at University of Michigan'
 paperurl: 'http://rishiksh20.github.io/files/nlp-report.pdf'
 slidesurl: 'http://rishiksh20.github.io/files/nlp-presentation.pdf'
