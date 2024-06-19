@@ -275,7 +275,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _projects
   - scope:
       path: ""
       type: projects
@@ -283,7 +283,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-
+ # _work
   - scope:
       path: ""
       type: work
