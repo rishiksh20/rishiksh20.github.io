@@ -2,8 +2,7 @@
 title: "Android Malware Detection using ML"
 collection: projects
 permalink: /projects/project1
-excerpt: 'During my junior year in UG at Savitribai Phule Pune University, India, I presented a seminar on Comparison of Various ML algorithms in detecting Android Malware.'
-date: May 2018
+excerpt: 'In 2018, during my junior year in UG at Savitribai Phule Pune University, India, I presented a seminar on Comparison of Various ML algorithms in detecting Android Malware.'
 paperurl: 'http://rishiksh20.github.io/files/android-malware-detection.pdf'
 ---
 

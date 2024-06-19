@@ -1,13 +1,10 @@
 ---
-title: "Project Title Number 2"
+title: "Is it easy to be Multilingual"
 collection: projects
 permalink: /projects/project2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Dec 2023 \nCourse Project - EECS 595 Natural Language Processing \nUniversity of Michigan'
+paperurl: 'http://rishiksh20.github.io/files/nlp-report.pdf'
+slidesurl: 'http://rishiksh20.github.io/files/nlp-presentation.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Explored mBERT’s transfer mechanics, emphasizing syntactic, morphological, and phonological similarities as key predictors. Displayed language model performance's critical role in cross-lingual transfer. Proposed a framework achieving 62.5% accuracy in selecting optimal source language for multilingual cross-transfer.
