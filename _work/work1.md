@@ -2,8 +2,7 @@
 title: "Project Intern"
 collection: work
 permalink: /work/work1
-excerpt: >
-    "BMC Software, Pune, India
+excerpt: "BMC Software, Pune, India
     August 2018 - April 2019"
 ---
 
