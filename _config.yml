@@ -275,6 +275,22 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+  - scope:
+      path: ""
+      type: work
+    values:
+      layout: single
+      author_profile: true
+      share: true
   
 
 
