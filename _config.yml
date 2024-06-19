@@ -21,7 +21,7 @@ repository               : "rishiksh20/rishiksh20.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_2779.heic"
+  avatar           : "IMG_2779.png"
   name             : "Rishikesh Ajay Ksheersagar"
   pronouns         : # example: "she/her"  
   bio              : "Masters in Data Science at University of Michigan"
