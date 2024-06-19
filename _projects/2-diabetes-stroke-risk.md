@@ -1,5 +1,5 @@
 ---
-title: "Is it easy to be Multilingual"
+title: "Diabetes and Stroke Prediction using NHANES Data"
 collection: projects
 permalink: /projects/2-diabetes-and-stroke-risk
 excerpt: 'In March 2023, I worked on a course project for STATS 503 Multivariate Analysis course at University of Michigan.'
