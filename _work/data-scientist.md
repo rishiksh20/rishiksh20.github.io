@@ -1,7 +1,7 @@
 ---
 title: "Data Scientist"
 collection: work
-permalink: /work/work2
+permalink: /work/data-scientist
 excerpt: "Mu Sigma Inc., Bangalore, India <br> July 2019 - July 2022"
 ---
 
