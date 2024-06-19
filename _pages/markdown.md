@@ -1,3 +1,12 @@
+---
+permalink: /markdown/
+title: "Markdown"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
+
 # Contact Me
 
 Feel free to reach out to me through any of the following methods:
