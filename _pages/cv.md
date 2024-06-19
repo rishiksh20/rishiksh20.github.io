@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+You can download a PDF version of my resume [here](http://rishiksh20.github.io/files/Resume - Rishikesh Ajay Ksheersagar.pdf).
 
 
 # Rishikesh Ajay Ksheersagar
