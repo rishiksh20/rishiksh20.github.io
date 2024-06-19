@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+**I have worked on some projects in the realm of Machine Learning, Reinforcement Learning and Natural Language Processing during my graduate and undergraduate studies, some of which are mentioned below:**
+
 {% for post in site.projects reversed %}
   {% include archive-single.html %}
 {% endfor %}
