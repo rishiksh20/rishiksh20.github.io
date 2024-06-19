@@ -1,7 +1,7 @@
 ---
 title: "Project Intern"
 collection: work
-permalink: /work/work1
+permalink: /work/project-intern
 excerpt: "BMC Software, Pune, India <br> August 2018 - April 2019"
 ---
 
