@@ -1,7 +1,7 @@
 ---
 title: "Data Science Manager"
 collection: work
-permalink: /work/data-science-manager
+permalink: /work/3-data-science-manager
 excerpt: "Mu Sigma Inc., Bangalore, India <br> August 2022 - June 2023"
 ---
 
