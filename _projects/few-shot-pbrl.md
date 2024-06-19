@@ -1,7 +1,7 @@
 ---
-title: "few-shot-pbrl"
+title: "Comparison of Various Meta-Learning Paradigms in Few-Shot Preference-Based Reinforcement Learning"
 collection: projects
-permalink: /projects/project3
+permalink: /projects/few-shot-pbrl
 excerpt: 'In April 2024 I worked on a course project for EECS 545 Machine Learning course at University of Michigan'
 paperurl: 'http://rishiksh20.github.io/files/ml-report.pdf'
 slidesurl: 'http://rishiksh20.github.io/files/ml-poster.pdf'
