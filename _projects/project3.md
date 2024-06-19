@@ -2,7 +2,7 @@
 title: "Comparison of Various Meta-Learning Paradigms in Few-Shot Preference Based Reinforcement Learning"
 collection: projects
 permalink: /projects/project3
-excerpt: 'Apr 2024 \nCourse Project - EECS 545 Machine Learning \nUniversity of Michigan'
+excerpt: 'In April 2024 I worked on a course project for EECS 545 Machine Learning course at University of Michigan'
 paperurl: 'http://rishiksh20.github.io/files/ml-report.pdf'
 ---
 
