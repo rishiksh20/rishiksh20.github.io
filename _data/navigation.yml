@@ -8,11 +8,8 @@ main:
     
   - title: "Research"
     url: /research/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
-  - title: "CV"
+  - title: "Resume"
     url: /cv/
     
   - title: "Guide"
