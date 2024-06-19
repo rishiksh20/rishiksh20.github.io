@@ -14,9 +14,6 @@ You can download a PDF version of my resume [here](http://rishiksh20.github.io/f
 
 # Rishikesh Ajay Ksheersagar
 
-**Location:** Ann Arbor, MI | **Phone:** +1(734)489-2596 | **Email:** [rishiksh@umich.edu](mailto:rishiksh@umich.edu)  
-**LinkedIn:** [linkedin.com/in/rishikeshksheersagar](https://www.linkedin.com/in/rishikeshksheersagar/) | **GitHub:** [github.com/rishiksh20](https://github.com/rishiksh20)
-
 ## Profile
 
 - **Skills:** Natural Language Processing, LLMs, Machine Learning, Deep Learning, Statistical Analysis, Reinforcement Learning
