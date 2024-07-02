@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rishikesh Ajay Ksheersagar"
+title                    : "Rishikesh Ksheersagar"
 title_separator          : "-"
-name                     : "Rishikesh Ajay Ksheersagar"
+name                     : "Rishikesh Ksheersagar"
 description              : &description "Masters in Data Science at University of Michigan <br> NLP Researcher at LIT Lab @ UMich <br> Previously - Data Science Manager at Mu Sigma Inc."
 url                      : https://rishiksh20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "rishiksh20/rishiksh20.github.io"
 author:
   # Biographic information
   avatar           : "IMG_2779.png"
-  name             : "Rishikesh Ajay Ksheersagar"
+  name             : "Rishikesh Ksheersagar"
   pronouns         : # example: "she/her"  
   bio              : "Masters in Data Science at University of Michigan <br> NLP Researcher at LIT Lab @ UMich <br> Previously - Data Science Manager at Mu Sigma Inc."
   location         : "Ann Arbor, Michigan"
