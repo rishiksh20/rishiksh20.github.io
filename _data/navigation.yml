@@ -2,15 +2,15 @@
 main:
   - title: "Projects"
     url: /projects/
+
+  - title: "Research"
+    url: /research/
   
   - title: "Work Experience"
     url: /work/    
     
-  - title: "Research"
-    url: /research/
-    
   - title: "Resume"
-    url: /cv/
+    url: /resume/
     
   - title: "Contact Me"
-    url: /markdown/
+    url: /contact/
