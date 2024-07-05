@@ -1,7 +1,7 @@
 ---
 title: "Research Assistant at University of Michigan"
 collection: research
-permalink: /research/ra-umich-lit
+permalink: /research/1-ra-umich-lit
 excerpt: 'Since May 2024, I am working in the Language and Information Technologies Lab (LIT @ UMich) as a NLP Researcher under Prof. Rada Mihalcea and Dr. Veronica Perez-Rosas.'
 ---
 

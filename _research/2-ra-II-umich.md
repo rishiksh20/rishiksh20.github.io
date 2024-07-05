@@ -1,7 +1,7 @@
 ---
 title: "Research Assistant II at University of Michigan"
 collection: research
-permalink: /research/ra-II-umich
+permalink: /research/2-ra-II-umich
 excerpt: 'In July 2024, I joined the multi-disciplinary team working on "Climate Change, Demographic Shifts, and Socio-Political Stability in Sub-Saharan Africa" project as an NLP Researcher at University of Michigan.<br>This project is funded by Minerva Research Initiative, Managed by the U.S. Air Force Office of Scientific Research.'
 ---
 
