@@ -9,10 +9,13 @@ redirect_from:
 
 Feel free to reach out to me through any of the following methods:
 
-- **Email:** [rishiksh@umich.edu](mailto:rishiksh@umich.edu)
-- **Phone:** +1(734)489-2596
-- **LinkedIn:** [linkedin.com/in/rishikeshksheersagar](https://www.linkedin.com/in/rishikeshksheersagar/)
-- **GitHub:** [github.com/rishiksh20](https://github.com/rishiksh20)
+- **Email:** rishiksh [at] umich [dot] edu
+- **Personal Email:** rishikesh [dot] ksheersagar [at] gmail [dot] com
+- **LinkedIn:** [rishikeshksheersagar](https://www.linkedin.com/in/rishikeshksheersagar/)
+- **X (formerly Twitter):** [rishiksh20](https://twitter.com/rishiksh20)
+- **GitHub:** [rishiksh20](https://github.com/rishiksh20)
+- **Instagram:** [_rishikesh_k](https://instagram.com/_rishikesh_k)
+
 
 ## Location
 
