@@ -1,10 +1,9 @@
 ---
 title: "Graduate Student Instructor: QMSS 301"
 collection: teaching
-type: "Undergraduate Course"
+term: "Fall 2024"
 permalink: /teaching/QMSS301
 venue: "University of Michigan, QMSS"
-date: 2014-08
 location: "Ann Arbor, USA"
 ---
 
