@@ -1,12 +1,11 @@
 ---
 title: "Graduate Student Instructor: QMSS 301"
 collection: teaching
+type: "Fall 2024"
 permalink: /teaching/QMSS301
-date: "08-26-2024"
 venue: "University of Michigan, LSA - QMSS"
 location: "Ann Arbor, USA"
 ---
-I am working as a Graduate Student Instructor for QMSS 301 in the Fall 2024 semester.
 
 QMSS 301: Quantative Social Science Analysis and Big Data, is offered by the QMSS program in School for Literature Science and Art at University of Michigan.
 
