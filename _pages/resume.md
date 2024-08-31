@@ -14,6 +14,8 @@ You can download a PDF version of my resume [here](http://rishiksh20.github.io/f
 
 # Rishikesh Ajay Ksheersagar
 
+Ann Arbor, MI | +1(734)489-2596 | [rishiksh@umich.edu](mailto:rishiksh@umich.edu) | [LinkedIn](https://www.linkedin.com/in/rishikeshksheersagar/) | [Website](https://rishiksh20.github.io/)
+
 ## Profile
 
 - **Skills:** Natural Language Processing, LLMs, Machine Learning, Deep Learning, Statistical Analysis, Reinforcement Learning, Information
@@ -31,7 +33,7 @@ Subjects: CSE 595 (NLP), ECE 598 (LLMs), CSE 545 (ML), SI 650 (Information Retri
 *Bachelor of Engineering in Computer Engineering, GPA 3.7/4.0*  
 June 2015 – June 2019 | Pune, India
 
-## Professional Experience
+## Research and Teaching
 
 **University of Michigan**  
 *Research Assistant*  
@@ -44,6 +46,8 @@ May 2024 – Present | Ann Arbor, MI, USA
 *Graduate Student Instructor*  
 August 2024 – Present | Ann Arbor, MI, USA  
 - Conducting weekly lab sessions for over 30 students in the QMSS 301 course during Fall 2024 semester, topics include – Geospatial Analysis in R, Predictive Modeling, and Sentiment Analysis in Python.
+
+## Professional Experience
 
 **Mu Sigma Inc.**  
 *Data Science Manager*  
