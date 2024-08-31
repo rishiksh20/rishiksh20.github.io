@@ -2,6 +2,7 @@
 title: "Graduate Student Instructor: QMSS 301"
 collection: teaching
 permalink: /teaching/QMSS301
+date: "08-26-2024"
 venue: "University of Michigan, LSA - QMSS"
 location: "Ann Arbor, USA"
 ---
