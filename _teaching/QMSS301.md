@@ -4,7 +4,7 @@ collection: teaching
 type: "Fall 2024"
 permalink: /teaching/QMSS301
 venue: "University of Michigan, LSA - QMSS"
-date: "2024"
+date: "2024-08-26"
 location: "Ann Arbor, USA"
 ---
 
