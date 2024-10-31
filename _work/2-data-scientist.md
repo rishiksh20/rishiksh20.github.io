@@ -19,7 +19,7 @@ I underwent 3 months of rigorous training where I gained some preliminary real-w
 - Due to my consistent efforts and subject-matter, I recieved my 2nd [SPOT Award](http://rishiksh20.github.io/files/sa2.pdf).
 
 **Fortune 100 Telecom Clientele**
-- Post ~2 years of gaining experience in the Retail domain, I moved to a team of 4 data scientists, as a lead, and worked with the Data Science and Data Engineering team of a US-based Telecom Giant.
+- Post ~2 years of gaining experience in the Retail domain, I moved to a team of 7 data scientists, as a lead, and worked with the Data Science and Data Engineering team of a US-based Telecom Giant.
 - We were partnering with the clients to develop and end-to-end framework to identify and tackle network impairments thus improving the "Network Service Experience".
 - Initially, we started off with performing exhaustive EDA on previously un-explored datasets. Lack of Subject Matter Expertise really made this a challenging task.
 - From Cable Modem Registration Dataset, we identified over 14 network "events" which indicated a degraded network service on the consumer's end for ~50M customers in near real-time.

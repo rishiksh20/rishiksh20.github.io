@@ -12,4 +12,4 @@ location: "Ann Arbor, USA"
 
 This course has 3 modules: Geospatial Analysis in R, Predictive Analysis in Python, and Sentiment Analysis & Web Scraping. More info [here](https://lsa.umich.edu/qmss/minor-program/requirements-and-curriculum/qmss-301.html).
 
-I am involved in conducting Weekly Lab sessions for over 30 students, conducting regular office hours, and grading work.
+I am involved in conducting Weekly Lab sessions for over 30 students and assisting over 60 students through Weekly Community Hours, conducting regular office hours, and grading work.
