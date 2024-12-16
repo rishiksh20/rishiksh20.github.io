@@ -1,7 +1,7 @@
 ---
 title: "Graduate Student Instructor: QMSS 301"
 collection: teaching
-type: "Fall 2024"
+type: "Fall'24, Winter'25"
 permalink: /teaching/QMSS301
 venue: "University of Michigan, LSA - QMSS"
 date: "2024-08-26"
