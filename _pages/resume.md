@@ -14,9 +14,8 @@ You can download a PDF version of my resume [here](http://rishiksh20.github.io/f
 
 # Rishikesh Ajay Ksheersagar
 
-**Ann Arbor, MI**  
-📞 +1 734-489-2596  
-✉️ [rishiksh@umich.edu](mailto:rishiksh@umich.edu)  
+**Ann Arbor, MI**   
+✉️ rishiksh [at] umich [dot] edu  
 🔗 [LinkedIn](https://www.linkedin.com/in/rishikeshksheersagar/)  
 🌐 [Website](https://rishiksh20.github.io/)
 
