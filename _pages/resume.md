@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a PDF version of my resume [here](http://rishiksh20.github.io/files/Resume-RishikeshAKsheersagar-Jul25.pdf).
+📄 **[Download a PDF version of my Resume.](http://rishiksh20.github.io/files/Resume-RishikeshAKsheersagar-Jul25.pdf)**
 
 
 # Rishikesh Ajay Ksheersagar
