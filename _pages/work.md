@@ -17,8 +17,6 @@ author_profile: true
 <li>I bring ~4 years of additional industry experience applying AI/ML and data science to real-world problems across technology, telecom, retail, and healthcare domains. <i>I received three SPOT Awards at Mu Sigma for delivering high-impact analytical solutions.</i></li>
 </ul>
 
-<br>
-
 **For a detailed description of my professional journey, see the roles below.**
 
 
