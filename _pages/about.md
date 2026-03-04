@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Rishikesh Ajay Ksheersagar, a Data Scientist deeply interested in LLMs and passionate about unraveling data complexities. I recently completed my [Master’s in Data Science](https://lsa.umich.edu/stats/masters_students/mastersprograms/data-science-masters-program.html) at the [University of Michigan, Ann Arbor](https://umich.edu/) (May 2025). 
+Hello! I’m Rishikesh Ajay Ksheersagar, a Data Scientist deeply interested in LLMs and passionate about unraveling data complexities. I am currently working as a Data Scientist at [LatentView Analytics](https://www.latentview.com/), partnering with HP Inc.'s Personal Systems Quality Team, where I am building ML and Generative AI systems including large-scale case-note classification, LLM-based summarization, and telemetry analytics pipelines to monitor and improve device quality. I recently completed my [Master’s in Data Science](https://lsa.umich.edu/stats/masters_students/mastersprograms/data-science-masters-program.html) at the [University of Michigan, Ann Arbor](https://umich.edu/) (May 2025). 
 
 My journey in Data Science space began with a [Bachelor's in Computer Engineering](http://www.unipune.ac.in/dept/science/computer_science/default.htm) from [Savitribai Phule Pune University](http://www.unipune.ac.in/) (May 2019).
 
@@ -19,7 +19,7 @@ I also served as a Graduate Student Instructor for the [QMSS 301](https://lsa.um
 
 To explore what I've built hands-on, from Register-Augmented LLMs to GPTQ-Quantized+LoRA fine-tuning pipelines, head over to my *[Projects](https://rishiksh20.github.io/projects/)*.
 
-Most recently, I have been working on 2 research projects: 
+In my free time, I have been working on 2 research projects: 
 - Building a large-scale evaluation framework using *AutoGen* to investigate *scheming behavior in LLMs*. This involves generating high-stakes, agentic software engineering scenarios and dynamically invoking thousands of real-world tools and APIs to test LLM safety and tool-use alignment under pressure. 
 - Exploring new methods of QAT for LLMs which can be effectively coupled with Hardware for efficient *Quantization Aware Training*. 
 
