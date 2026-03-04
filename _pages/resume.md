@@ -87,7 +87,7 @@ Ann Arbor, MI, USA | May 2024 – May 2025
 
 ### Apprentice Leader
 
-Bangalore, India | July 2019 – June 2023
+Bangalore, KA, India | July 2019 – June 2023
 
 * Managed two teams consisting of 8 data scientists working with Fortune-100 clients in telecom and healthcare domains, spearheading the growth and management of engagements generating $1M annually.
 * Achieved a 30% decrease in probable outages by designing an unbalanced multi-class classifier using RxMER data, stacking XGBoost and sequential neural network models to precisely identify causation of modem network impairment anomalies in near real-time.
