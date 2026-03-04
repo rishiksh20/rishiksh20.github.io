@@ -2,7 +2,7 @@
 title: "Research Assistant II at University of Michigan"
 collection: research
 permalink: /research/2-ra-II-umich
-excerpt: 'In July 2024, I joined the multi-disciplinary team working on "Climate Change, Demographic Shifts, and Socio-Political Stability in Sub-Saharan Africa" project as an NLP Researcher at University of Michigan.<br>This project is funded by Minerva Research Initiative, Managed by the U.S. Air Force Office of Scientific Research.'
+excerpt: 'July 2024 - October 2024 <br> "Climate Change, Demographic Shifts, and Socio-Political Stability in Sub-Saharan Africa" project <br> NLP Researcher at University of Michigan.<br>This project is funded by Minerva Research Initiative, Managed by the U.S. Air Force Office of Scientific Research.'
 ---
 
 The "Climate Change, Demographic Shifts, and Socio-Political Stability" project at the University of Michigan investigates the impacts of climate and demographic changes on socio-political stability in Sub-Saharan Africa. By developing robust data infrastructure, empirical risk forecasting models, and innovative field data collection methods, the project aims to address pressing national security concerns related to these changes. More info [here](https://cps.isr.umich.edu/project/minerva-climatechange/).
