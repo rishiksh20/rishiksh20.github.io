@@ -19,9 +19,11 @@ I also served as a Graduate Student Instructor for the [QMSS 301](https://lsa.um
 
 To explore what I've built hands-on, from Register-Augmented LLMs to GPTQ-Quantized+LoRA fine-tuning pipelines, head over to my *[Projects](https://rishiksh20.github.io/projects/)*.
 
-In my free time, I have been working on 2 research projects: 
+In my free time, I have been working on 2 projects: 
 - Building a large-scale evaluation framework using *AutoGen* to investigate *scheming behavior in LLMs*. This involves generating high-stakes, agentic software engineering scenarios and dynamically invoking thousands of real-world tools and APIs to test LLM safety and tool-use alignment under pressure. 
 - Exploring new methods of QAT for LLMs which can be effectively coupled with Hardware for efficient *Quantization Aware Training*. 
 
-I believe in the power of continuous learning and am currently open to full-time opportunities in Machine Learning, AI / LLMs, and Data Science. Let’s connect and explore what we can build together!
+I am also passionate about environmental and ecological initiatives, and have contributed through volunteering work involving data analysis and digital strategy with EcoServants. For more info check *[this](https://rishiksh20.github.io/work/5-Data-Intern)*.
+
+I believe in the power of continuous learning and would love to talk about Machine Learning, AI / LLMs, and Data Science. Let’s connect and explore what we can build together!
 
