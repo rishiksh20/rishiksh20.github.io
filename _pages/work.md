@@ -8,12 +8,19 @@ author_profile: true
 {% include base_path %}
 
 <ul>
-<li>**I am currently building ML and Generative AI systems for HP Inc. at LatentView Analytics, including large-scale case-note classification, LLM-based summarization, and telemetry analytics pipelines to monitor and improve device quality.**</li> 
-<li>I also have Volunteering Experience driving Environmental Initiatives with real world Data Analysis.</li>
-<li>During my time at University of Michigan, I had 2 stints of being a Research Assistant (NLP, LLM) and Graduate Student Instructor (QMSS 301).</li>
-<li>**I have an additional ~ 4 years of professional experience in solving real-world problems using AI/ML and Data Science techniques in Technology, Retail, Telecom, and Healthcare domains.** <br> *I was awarded with SPOT Awards on 3 occasions during my tenure at Mu Sigma as a Data Scientist for exceeding project goals, delivering exceptional results and designing optimal solutions.*</li>
+<li>I am currently building machine learning and Generative AI systems for HP Inc. at LatentView Analytics, including large-scale case-note classification, LLM-based summarization, and telemetry analytics pipelines to monitor and improve device reliability.</li>
+
+<li>I have also contributed to environmental and nonprofit initiatives through data analysis and digital analytics work supporting conservation and outreach efforts.</li>
+
+<li>During my time at the University of Michigan, I worked as both a Research Assistant (NLP and LLM safety research) and a Graduate Student Instructor for QMSS 301: Quantitative Social Science Analysis and Big Data.</li>
+
+<li>I bring ~4 years of additional industry experience applying AI/ML and data science to real-world problems across technology, telecom, retail, and healthcare domains. <i>I received three SPOT Awards at Mu Sigma for delivering high-impact analytical solutions.</i></li>
 </ul>
-<br> **For a detailed description of my professional journey, read below:**
+
+<br>
+
+**For a detailed description of my professional journey, see the roles below.**
+
 
 {% for post in site.work reversed %}
   {% include archive-single.html %}
