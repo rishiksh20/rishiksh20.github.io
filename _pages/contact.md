@@ -9,14 +9,16 @@ redirect_from:
 
 Feel free to reach out to me through any of the following methods:
 
-- **Email:** rishiksh [at] umich [dot] edu
-- **Personal Email:** rishikesh [dot] ksheersagar [at] gmail [dot] com
+- **Primary Email:** rishikesh [dot] ksheersagar [at] gmail [dot] com
+- **University Email:** rishiksh [at] umich [dot] edu
+
 - **LinkedIn:** [rishikeshksheersagar](https://www.linkedin.com/in/rishikeshksheersagar/)
 - **X (formerly Twitter):** [rishiksh20](https://twitter.com/rishiksh20)
-- **GitHub:** [rishiksh20](https://github.com/rishiksh20)
 - **Instagram:** [_rishikesh_k](https://instagram.com/_rishikesh_k)
+
+- **GitHub:** [rishiksh20](https://github.com/rishiksh20)
 
 
 ## Location
 
-Ann Arbor, MI, USA
+Houston, TX, USA
