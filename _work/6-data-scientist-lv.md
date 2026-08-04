@@ -6,24 +6,24 @@ excerpt: "LatentView Analytics (CW at HP Inc.), Houston, TX, USA <br> November 2
 ---
 
 
-## Data Scientist — HP Personal Systems Analytics
+## Data Scientist — HP Personal Systems Quality AI & Analytics
 
-At LatentView, I work as a Data Scientist supporting HP’s Personal Systems analytics and AI initiatives. My work focuses on building machine learning and Generative AI systems that analyze large-scale device telemetry and customer support data to improve product reliability, identify recurring device issues, and enable faster operational decision-making.
+At LatentView Analytics, I work as a Data Scientist supporting HP’s Personal Systems Quality team, where I engineer scalable machine learning and Generative AI systems across agentic RAG, multimodal document intelligence, support analytics, and device telemetry. My work spans the complete AI engineering lifecycle—from system and retrieval architecture to deployment, observability, performance optimization, and business integration.
 
 ### Key Contributions
 
-- **Developing LLM-based systems for support analytics** to process and analyze large volumes of customer support case notes, including automated summarization and classification of technical issues across device families.
+* **Productionized a multi-turn, multimodal agentic RAG system** using LangGraph and Azure AI Search, delivering grounded Q&A across 2,500+ equipment manuals containing 300+ pages each. The system supports 100+ concurrent users with a p95 time to first token of 8 seconds and p95 completion latency of 25 seconds.
 
-- **Building large-scale semantic embedding pipelines** using Sentence Transformers on Azure Databricks to transform hundreds of thousands of support records into vector representations for similarity search, clustering, and trend analysis.
+* **Architected the retrieval and serving infrastructure** using hierarchical summary-to-chunk hybrid retrieval, small-language-model routing and reranking, asynchronous FastAPI endpoints, per-thread Redis locks, custom SQL-backed LangGraph checkpointing, four-hour retrieval caching, and Phoenix-based tracing and performance monitoring.
 
-- **Designing machine learning pipelines** for categorizing support cases into structured issue taxonomies (multi-level labels), enabling scalable monitoring of recurring product issues and operational bottlenecks.
+* **Delivered an end-to-end CV-LLM compliance automation proof of concept** that detects regulatory label regions and certification marks in product artwork PDFs, validates them against approval-specific requirements, and flags missing or extraneous marks—demonstrating a potential ~60% reduction in manual review time.
 
-- **Analyzing device telemetry and system alerts** (boot performance, thermal signals, battery health, and system events) to identify reliability trends and support proactive monitoring of device performance across large device fleets.
+* **Developed Generative AI support-analytics pipelines** for large-scale case-note summarization and BERT-based multi-level issue classification, transforming hundreds of thousands of unstructured support records into structured, actionable reliability insights.
 
-- **Developing automated analytics and reporting pipelines** that convert raw operational data into structured insights and monitoring dashboards for engineering and product teams.
+* **Built semantic embedding and clustering pipelines** using Sentence Transformers and Azure Databricks to support similarity search, taxonomy development, representative sampling, and emerging-issue discovery across large support datasets.
 
-- **Implementing scalable data processing workflows** using Python, PySpark, and SQL on Azure Databricks to support machine learning pipelines and large-scale analytics workloads.
+* **Engineered PySpark telemetry analytics pipelines** to monitor boot performance, battery health, thermal behavior, BIOS compliance, and system events across millions of devices, enabling proactive reliability monitoring and engineering dashboards.
 
 ### Technologies
 
-Python • PySpark • SQL • Azure Databricks • Machine Learning • NLP • LLM workflows • Vector embeddings • Data pipelines
+Python • LangGraph • Azure OpenAI • Azure AI Search • FastAPI • Redis • Arize Phoenix • SQL • PySpark • Azure Databricks • Sentence Transformers • BERT • OpenCV • PyMuPDF • RAG • NLP • Multimodal AI • Vector Search • Power BI

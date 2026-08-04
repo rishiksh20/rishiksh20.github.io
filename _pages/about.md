@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Rishikesh Ajay Ksheersagar, a Data Scientist deeply interested in LLMs and passionate about unraveling data complexities. I am currently [working](https://rishiksh20.github.io/work/) as a Data Scientist at [LatentView Analytics](https://www.latentview.com/), partnering with HP Inc.'s Quality Team, where I am building ML and Generative AI systems including large-scale call classification, LLM-based summarization, and telemetry analytics pipelines to monitor and improve device quality.
+Hello! I’m Rishikesh Ajay Ksheersagar, an AI Engineer and Data Scientist focused on building reliable, scalable LLM, RAG, and multimodal AI systems. I am currently [working](https://rishiksh20.github.io/work/) as a Data Scientist at [LatentView Analytics](https://www.latentview.com/), partnering with HP Inc.’s Personal Systems Quality team to design, build, and productionize AI solutions—including agentic RAG, CV-LLM compliance automation, support-case classification and summarization, and PySpark telemetry pipelines monitoring millions of devices. My work spans the complete AI engineering lifecycle, from system architecture and retrieval to deployment, observability, and latency optimization.
 
 I recently completed my [Master’s in Data Science](https://lsa.umich.edu/stats/masters_students/mastersprograms/data-science-masters-program.html) at the [University of Michigan, Ann Arbor](https://umich.edu/) (May 2025). 
 

@@ -8,7 +8,8 @@ author_profile: true
 {% include base_path %}
 
 <ul>
-<li>I am currently building machine learning and Generative AI systems for HP Inc. at LatentView Analytics, including large-scale case-note classification, LLM-based summarization, and telemetry analytics pipelines to monitor and improve device reliability.</li>
+<li>At LatentView Analytics, I engineer scalable ML and Generative AI systems for HP Inc., spanning multimodal agentic RAG, CV-LLM compliance automation, large-scale case-note classification and summarization, and PySpark telemetry pipelines that improve device-quality monitoring and reliability.
+</li>
 
 <li>I have also contributed to environmental and nonprofit initiatives through data analysis and digital analytics work supporting conservation and outreach efforts.</li>
 
